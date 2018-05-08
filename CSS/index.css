@@ -1,0 +1,19 @@
+body
+{
+	padding-top: 56px;
+}
+footer
+{
+	position: absolute;
+    bottom: 0;
+    width: 100%;
+}
+#SidebarToggle{
+	color: blue;
+}
+
+#sidebar{
+	overflow: hidden;
+	z-index: 3;
+	max-width: 250px;
+}
